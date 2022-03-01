@@ -2,7 +2,7 @@
 this is a basic part of using hooks.
 
 
-- [x] [Live Project Link](zahidhooks.netlify.app/)
+- [x] Live Project Link: zahidhooks.netlify.app/
 
 <hr>
 
