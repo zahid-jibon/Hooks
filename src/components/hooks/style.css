@@ -179,3 +179,17 @@ P {
   font-size: 30px;
   margin-bottom: 50px;
 }
+
+/* footer */
+
+.footer{
+    color: #fff;
+    font-size: 14px;
+    font-weight: 700;
+    letter-spacing: 6px;
+    margin: 5px 0 20px;
+    margin-top: 30%;
+    position: relative;
+    text-align: center;
+    text-transform: uppercase;
+}

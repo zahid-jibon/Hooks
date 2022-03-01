@@ -1,4 +1,5 @@
 import React, { useReducer } from 'react';
+import Footer from './Footer';
 import "./style.css";
 
 const reducer = (state, action) => {
@@ -37,6 +38,7 @@ const UseReducer = () => {
                     Decreasing
                 </div>
             </div>
+            <Footer></Footer>
         </>
     );
 };
