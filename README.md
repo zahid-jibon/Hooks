@@ -1,5 +1,5 @@
 # Hooks...UseState Hooks...UseEffect Hooks
-This is a Basic Part of React Hooks.
+This is a Basic Project, Part of React Hooks.
 
 
 👉 [Live Project Link](https://zahidhooks.netlify.app/)
